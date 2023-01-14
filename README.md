@@ -1,1 +1,1 @@
-# skypro-rest-api-library
+# skypro-library-server
